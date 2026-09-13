@@ -1,0 +1,6 @@
+{
+  "name": "Tera Bonus",
+  "description": "Tera Bonus.exe Mobile Edition - GDI Only legacy graphics rendering and procedural 8-bit Bytebeat audio engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

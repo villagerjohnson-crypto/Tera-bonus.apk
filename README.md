@@ -1,1 +1,0 @@
-Moblie edition is here
